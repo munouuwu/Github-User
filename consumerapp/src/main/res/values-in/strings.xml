@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="name_placeholder">name</string>
+    <string name="username_placeholder">username</string>
+    <string name="location_placeholder">location</string>
+    <string name="company_placeholder">company</string>
+    <string name="repository_placeholder">reository</string>
+    <string name="following_placeholder">following</string>
+    <string name="follower_placeholder">follower</string>
+    <string name="dummy_text">lorem ipsum</string>'
+    <string name="back">Kembali</string>
+    <string name="detail_Activity">Details</string>
+    <string name="main_Activity">Github User</string>
+    <string name="avatar">Avatar</string>
+    <string name="follower">Follower: </string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="follower_tab">Pengikut</string>
+    <string name="following_tab">Mengikuti</string>
+    <string name="location">Lokasi: </string>
+    <string name="repository">Repositori: </string>
+    <string name="company">Perusahaan: </string>
+    <string name="followers">Pengikut: </string>
+    <string name="following">Mengikuti: </string>
+    <string name="favorite">Favorit</string>
+    <string name="fav_add">"Ditambahkan ke favorit"</string>
+    <string name="fav_delete">"Dihapus dari favorit"</string>
+    <string name="fav_empty">List favorit kosong</string>
+    <string name="notification">Pengaturan Notifikasi</string>
+    <string name="reminder">Reminder Berulang</string>
+    <string name="toggle">Aktifkan (On/Off)</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+</resources>

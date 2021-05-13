@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name_placeholder">name</string>
+    <string name="username_placeholder">username</string>
+    <string name="location_placeholder">location</string>
+    <string name="company_placeholder">company</string>
+    <string name="repository_placeholder">reository</string>
+    <string name="following_placeholder">following</string>
+    <string name="follower_placeholder">follower</string>
+    <string name="dummy_text">lorem ipsum</string>'
+    <string name="back">Back</string>
+    <string name="detail_Activity">Details</string>
+    <string name="main_Activity">Github User</string>
+    <string name="avatar">Avatar</string>
+    <string name="follower">Follower: </string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="follower_tab">Followers</string>
+    <string name="following_tab">Following</string>
+    <string name="location">Location: </string>
+    <string name="repository">Repository: </string>
+    <string name="company">Company: </string>
+    <string name="followers">Followers: </string>
+    <string name="following">Following: </string>
+    <string name="favorite">Favorite</string>
+    <string name="fav_add">"Added to favorites"</string>
+    <string name="fav_delete">"Deleted from favorites"</string>
+    <string name="fav_empty">Favorite list is empty</string>
+    <string name="notification">Notification Settings</string>
+    <string name="reminder">Repeated Reminder</string>
+    <string name="toggle">Toggle (On/Off)</string>
+    <string name="change_language_settings">Change Language</string>
+</resources>
